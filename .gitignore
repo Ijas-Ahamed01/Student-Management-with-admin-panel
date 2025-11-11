@@ -1,0 +1,23 @@
+
+# NetBeans specific files
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbantext/
+nbactions.xml
+nb-configuration.xml
+
+# Java compiled files
+*.class
+
+# IntelliJ or other IDE folders (in case you switch)
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
